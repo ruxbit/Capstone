@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="part_type_icons">
+        <item>@drawable/ic_suspension_fork</item>
+        <item>@drawable/ic_suspension_fork</item>
+        <item>@drawable/ic_rigid_fork</item>
+        <item>@drawable/ic_rear_suspension</item>
+        <item>@drawable/ic_tyre</item>
+        <item>@drawable/ic_brake</item>
+        <item>@drawable/ic_bottom_bracket</item>
+        <item>@drawable/ic_chain</item>
+        <item>@drawable/ic_cassette</item>
+        <item>@drawable/ic_chainrings</item>
+        <item>@drawable/ic_derailleur</item>
+        <item>@drawable/ic_hub</item>
+        <item>@drawable/ic_pedals</item>
+    </integer-array>
+    <array name="part_type_names">
+        <item>Air fork</item>
+        <item>Coil fork</item>
+        <item>Rigid fork</item>
+        <item>Rear suspension</item>
+        <item>Tire</item>
+        <item>Brake</item>
+        <item>Bottom bracket</item>
+        <item>Chain</item>
+        <item>Cassette</item>
+        <item>Chainrings</item>
+        <item>Derailleur</item>
+        <item>Hub</item>
+        <item>Pedals</item>
+    </array>
+
+    <array name="bike_type_names">
+        <item>Road</item>
+        <item>Touring</item>
+        <item>Hybrid</item>
+        <item>Cyclo-cross</item>
+        <item>Mountain (Hardtail)</item>
+        <item>Mountain (Full suspension)</item>
+        <item>Fatbike</item>
+        <item>Time trial</item>
+        <item>Triathlon</item>
+        <item>Track</item>
+        <item>BMX</item>
+        <item>Cruiser</item>
+        <item>E-bike</item>
+    </array>
+
+    <array name="onboarding_titles">
+        <item>Strava synchronization</item>
+        <item>Bike info in one place</item>
+        <item>Easy maintenance</item>
+    </array>
+
+    <array name="onboarding_descriptions">
+        <item>Sync your bikes and rides with Strava</item>
+        <item>Fill in all your bike info. Take notes. All this information could be useful in case your bike gets stolen</item>
+        <item>Add maintenance tasks for your bike. The app will show which tasks you need to complete based on your Strava activities</item>
+    </array>
+
+    <array name="onboarding_images">
+        <item>@drawable/onboarding_strava_sync</item>
+        <item>@drawable/onboarding_bike_info</item>
+        <item>@drawable/onboarding_maintenance</item>
+    </array>
+
+    <array name="errors">
+        <item>Error occurred while fetching access token</item>
+        <item>Error occurred while fetching activities</item>
+        <item>Error occurred while fetching bikes data</item>
+    </array>
+</resources>

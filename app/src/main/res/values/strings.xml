@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Bike Companion</string>
+    <string name="wear">%1$.2f/%2$.0f%3$s</string>
+    <string name="km">km</string>
+    <string name="h">h</string>
+    <string name="part_name">Part name</string>
+    <string name="half_service_title">Half service</string>
+    <string name="perform_every">Perform every</string>
+    <string name="default_interval">1000</string>
+    <string name="hours">hours</string>
+    <string name="last_performed">Last performed</string>
+    <string name="full_service_title">Full service</string>
+    <string name="replace">Replace</string>
+    <string name="task_name">Task name</string>
+    <string name="select_date">Select date</string>
+    <string name="part_type_title">Part type</string>
+    <string name="part_manufacturer">Part manufacturer</string>
+    <string name="part_model">Part model</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="perform_every_i_u">Perform every %1$d%2$s</string>
+    <string name="start_date">Start date %s</string>
+    <string name="details">Details</string>
+    <string name="parts">Parts</string>
+    <string name="rides">Rides</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_brand">Brand</string>
+    <string name="hint_model">Model</string>
+    <string name="hint_frame_number">Frame number</string>
+    <string name="change_photo">Change photo</string>
+    <string name="hint_weigth">Weight (kg)</string>
+    <string name="hint_description">Description</string>
+    <string name="acitivity_tasks_title">Tasks of part</string>
+    <string name="moving_time">Moving time: %1$d:%2$02d:%3$02d</string>
+    <string name="distance">Distance: %1$.2fkm</string>
+    <string name="start_time">Start time: %1s</string>
+    <string name="login_hint">Allow this app to access your activities and profile data</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_empty">Click here to select bikes</string>
+    <string name="bike_photo">Bike photo</string>
+    <string name="strava_login">Strava login button</string>
+    <string name="video_thumbnail">Video thumbnail</string>
+    <string name="part_icon">Part icon</string>
+    <string name="edit_icon">Edit icon</string>
+    <string name="delete_icon">Delete icon</string>
+    <string name="ride_icon">Ride icon</string>
+    <string name="task_name_empty">Task name can\'t be empty</string>
+    <string name="task_interval_empty">Task interval can\'t be empty</string>
+    <string name="guides">Guides</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="powered_by_strava">Powered by Strava</string>
+</resources>

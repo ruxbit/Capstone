@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.BikeCompanion" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="android:colorBackground">@color/colorBackground</item>-->
+    </style>
+
+    <style name="titleLight" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/colorTextSecondary</item>
+    </style>
+
+    <style name="titleBigLight" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/colorTextSecondary</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="miniTitle" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

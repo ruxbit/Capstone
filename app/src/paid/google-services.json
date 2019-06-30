@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "364609242040",
+    "firebase_url": "https://bike-companion-dc74b.firebaseio.com",
+    "project_id": "bike-companion-dc74b",
+    "storage_bucket": "bike-companion-dc74b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364609242040:android:2e54be315c724eb4",
+        "android_client_info": {
+          "package_name": "com.ruxbit.bikecompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364609242040-rs5msv6jj3mvkg2ebih1k8gu70j8uhsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBympwkkQwhylHAdAt-ErEP38t9X0Jix0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364609242040-rs5msv6jj3mvkg2ebih1k8gu70j8uhsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364609242040:android:b0c8d6bdb13d78d9",
+        "android_client_info": {
+          "package_name": "com.ruxbit.bikecompanion.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364609242040-rs5msv6jj3mvkg2ebih1k8gu70j8uhsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBympwkkQwhylHAdAt-ErEP38t9X0Jix0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364609242040-rs5msv6jj3mvkg2ebih1k8gu70j8uhsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364609242040:android:c0686f36a5a40765",
+        "android_client_info": {
+          "package_name": "com.ruxbit.bikecompanion.paid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364609242040-rs5msv6jj3mvkg2ebih1k8gu70j8uhsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBympwkkQwhylHAdAt-ErEP38t9X0Jix0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364609242040-rs5msv6jj3mvkg2ebih1k8gu70j8uhsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

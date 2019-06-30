@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_wli_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_wli_bike"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_wli_task"
+        android:layout_marginTop="8dp"
+        tools:text="Bike name" />
+
+    <TextView
+        android:id="@+id/tv_wli_part"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_wli_bike"
+        tools:text="Part manufacturer part model" />
+
+    <TextView
+        android:id="@+id/tv_wli_task"
+        style="@style/miniTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        tools:text="Task name" />
+
+    <TextView
+        android:id="@+id/tv_wli_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_wli_part"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/pb_wli_progress"
+        tools:text="123/1234km" />
+
+    <ProgressBar
+        android:id="@+id/pb_wli_progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_wli_part"
+        android:layout_marginTop="8dp"
+        android:indeterminateOnly="false" />
+
+    <!--style="?android:attr/progressBarStyle"-->
+</RelativeLayout>
